@@ -1,0 +1,16 @@
+Marteau#rouge#en bois
+Marteau#vert#en bois
+Marteau#blanc#en plastique
+Marteau#gris#en pierre
+Pelle#rouge#en bois
+Pelle#vert#en alu
+Pelle#rouge#en plastique
+Pelle#gris#en fonte
+Raquette#rouge#en bois
+Raquette#verte#en bois
+Raquette#blanche#en alu
+Raquette#grise#en fonte
+Tambour#rouge#en bois
+Tambour#vert#en alu
+Tambour#bleu#en bois
+Tambour#jaune#en plastique

@@ -1,0 +1,27 @@
+garagiste#Rennes
+garagiste#Rennes
+boulanger#Bruz
+boulanger#Bruz
+plombier#Paris
+plombier#Paris
+pompiste#Rennes
+pompiste#Rennes
+maitre nageur#Toulon
+maitre nageur#Toulon
+syndicaliste#Paris
+syndicaliste#Paris
+enseignant#Rennes
+enseignant#Rennes
+secrétaire#Bruz
+secrétaire#Bruz
+médecin#Lyon
+médecin#Lyon
+ouvrier#Rennes
+ouvrier#Rennes
+ouvrier#Bruz
+ouvrier#Paris
+ouvrier#Toulon
+avocat#Bruz
+avocat#Bruz
+escroc#Paris
+escroc#Paris

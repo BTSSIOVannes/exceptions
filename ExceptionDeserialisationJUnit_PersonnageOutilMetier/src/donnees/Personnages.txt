@@ -1,0 +1,74 @@
+Rahan#personnage de bande dessinée et de dessin animé#fiction
+Casimir#personnage imaginaire#fiction
+Tintin#personnage de bande dessinée et de dessin animé#fiction
+XIII#personnage de bande dessinée et de fiction#fiction
+Picsou#personnage de bande dessinée et de dessin animé#fiction
+Lala#personnage de fiction, Télétubbies#fiction
+Dipsy#personnage de fiction, Télétubbies#fiction
+Babar#personnage de bande dessinée et de dessin animé#fiction
+Gargamel#personnage de bande dessinée et de dessin animé, le méchant des schtroumphs#fiction
+Mickey#personnage de bande dessinée et de dessin animé#fiction
+Donald#personnage de bande dessinée et de dessin animé#fiction
+Superman#super-héro de comics#fiction
+Spiderman#super-héro de comics#fiction
+Hulk#super-héro de comics#fiction
+Lupin#gentleman cambrioleur de fiction#fiction
+Maigret#commissaire de fiction#fiction
+Rambo#surhomme de fiction#fiction
+Cousteau#marin scientifique explorateur#mort
+Mermoz#aviateur#mort
+Hulot#explorateur écologiste#vivant
+Anelka#sportif, joueur de football#vivant
+Zidane#sportif, joueur de football#vivant
+Manaudou#sportif, nageuse#vivant
+Mauresmo#sportif, joueuse de tennis#vivant
+Douillet#sportif judoka et homme politique#vivant
+Noah#sportif, joueur de tennis et chanteur#vivant
+Curie#scientifique en physique#mort
+Einstein#scientifique en physique#mort
+Pasteur#scientifique en biologie#mort
+Newton#scientifique en physique#mort
+Archimede#scientifique en physique#mort
+Freud#scientifique psychanalyste#mort
+Kant#philosophe#mort
+Sartre#philosophe humaniste#mort
+Chirac#homme politique français#vivant
+Jospin#homme politique français#vivant
+Aubry#femme politique français#vivant
+Fillon#homme politique français#vivant
+Barre#homme politique français#mort
+Veil#femme politique français#vivant
+Richelieu#cardinal sous Louis XIII#mort
+Pompidou#homme politique français#mort
+Berlusconi#homme politique italien#vivant
+Churchill#homme politique anglais#mort
+Clemenceau#homme politique français#mort
+Vercingetorix#guerrier gaulois#mort
+Charlemagne#roi des francs#mort
+Clovis#roi des francs#mort
+Ronsard#poète français#mort
+Voltaire#écrivain et philosophe français des lumières#mort
+Balzac#écrivain français du XIXème siècle#mort
+Montesquieu#écrivain français du XVIIIème siècle#mort
+Zola#écrivain français du XIXème siècle#mort
+Verlaine#poète français#mort
+Rimbaud#poète français#mort
+Racine#dramaturge français#mort
+Corneille#dramaturge français#mort
+Molière#dramaturge français#mort
+Tolkien#écrivain anglais#mort
+Barjavel#auteur de fiction français#mort
+Vian#auteur de fiction français#mort
+Asimov#auteur de fiction russe #mort
+Orwell#auteur de fiction britannique#mort
+Wells#auteur de fiction britannique#mort
+Uderzo#auteur de bande dessinées francophone#mort
+Desproges#humoriste français#mort
+Coluche#humoriste français#mort
+Drucker#présentateur français#vivant
+Ruquier#présentateur français#vivant
+Dechavanne#présentateur français#vivant
+Denisot#présentateur français#vivant
+Tchernia#présentateur français#vivant
+PPDA#journaliste français#vivant
+Chazal#journaliste française#vivant
